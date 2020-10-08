@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  genekindberg
 
 # Build settings
-theme: jekyll-theme-hydejack
+#theme: jekyll-theme-hydejack
 plugins:
   - jekyll-feed
   
