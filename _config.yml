@@ -28,7 +28,7 @@ github_username:  genekindberg
 
 # Build settings
 remote_theme: hydecorp/hydejack@v9.0.5
-# jekyll-theme-hydejack
+#theme: jekyll-theme-hydejack
 plugins:
   - jekyll-feed
   - jekyll-include-cache
