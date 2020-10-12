@@ -43,8 +43,6 @@ docs:
 menu:
   - title: Research
     url:   /Research/
-  - title: About
-    url:   /about/
   - title: Code
     url:   /Code/
 
