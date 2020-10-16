@@ -83,6 +83,8 @@ Powered by Hydejack v9.0.4 <https://hydejack.com/>
 
 
 
+  <link rel="dns-prefetch" href="https://www.google-analytics.com">
+
 
 <link rel="preload" href="/assets/img/swipe.svg" as="image" id="_hrefSwipeSVG">
 
@@ -183,8 +185,8 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79,177,186,0.5);
 
 <p>A nowcasting dynamic factor model estimated using Bayesian methods, implemented in Python. Can accommodate multiple factors, a choice of lags in the observation and transition equations, and can include an MA term in the errors in the observation equation. Also provides quasi out-of-sample mean squared errors to assess nowcasting performance. Roughly based on my work in <a href="https://www.bankofengland.co.uk/quarterly-bulletin/2018/2018-q3/gauging-the-globe-the-banks-approach-to-nowcasting-world-gdp">Gauging the Globe: The Bank’s Approach to Nowcasting World GDP</a>.</p>
 
-<h2 id="coming-soon-svar-toolbox">Coming soon: SVAR Toolbox</h2>
-<p>A matlab toolbox for running BVARs with Spectral, Limited Spectral, Max Share, and long-run restriction identifications</p>
+<h2 id="svar-toolbox"><a href="https://github.com/genekindberg/SVAR_tools">SVAR Toolbox</a></h2>
+<p>A matlab toolbox for running BVARs with long-run restrictions, the Max Share approach, and a standard Cholesky identification. Spectral and Limited Spectral identifications will be added in due course. The toolbox also produces, IRFs, FEVD, historical decompositions, and structural shocks. It can be easily modified to add new identifications.</p>
 
 
   
@@ -354,6 +356,46 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79,177,186,0.5);
   
 
   
+  <script>!function(w, d) {
+    w.ga=w.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+
+    /**/
+      if (navigator.CookiesOK) {
+        ga('create', 'G-EJFYJPYS8J', 'auto');
+      } else if (d.cookie.indexOf("hy--cookies-ok=true") > -1) {
+        ga('create', 'G-EJFYJPYS8J', {
+          'storage': 'none',
+          'clientId': localStorage ? localStorage.getItem('ga--client-id') : undefined
+        });
+      } else {
+        ga('create', 'G-EJFYJPYS8J', {
+          'storage': 'none'
+        });
+        ga('set', 'forceSSL', true);
+        ga('set', 'anonymizeIp', true);
+      }
+    /**/
+
+    var pushStateEl = d.getElementById('_pushState');
+    var timeoutId;
+    pushStateEl.addEventListener('hy-push-state-load', function() {
+      w.clearTimeout(timeoutId);
+      timeoutId = w.setTimeout(function() {
+        ga('set', 'page', w.location.pathname);
+        ga('send', 'pageview');
+      }, 500);
+    });
+
+    d.addEventListener('hy--cookies-ok', function () {
+      w.ga(function(tracker) {
+        w.ga("set", "anonymizeIp", undefined);
+        localStorage && localStorage.setItem("ga--client-id", tracker.get("clientId"));
+      });
+    });
+
+    w.loadJSDeferred('https://www.google-analytics.com/analytics.js');
+  }(window, document);</script>
+
 
 <!--<![endif]-->
   
