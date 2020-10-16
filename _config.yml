@@ -54,7 +54,7 @@ image:
     960w:  /assets/img/gkhphoto.jpg
     480w:  /assets/img/gkhphoto.jpg
     
-accent_image: IMG/Blue.jpg
+accent_image: /IMG/Blue.jpg
 
 # Exclude from processing.
 # The following items will not be processed, by default.
