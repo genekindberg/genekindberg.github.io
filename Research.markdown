@@ -6,9 +6,6 @@ permalink: /Research/
 
 
 
-## In progress:
-
-A Tale of Two Dynamics: Exploring Productivity and Business-cycle Drivers of Developed and Emerging Market Economies
 
 ## Nowcasting:
 
@@ -20,10 +17,9 @@ A Tale of Two Dynamics: Exploring Productivity and Business-cycle Drivers of Dev
 	Previous: [New approaches to the identification of low frequency drivers: An application to technology shocks](http://documents.worldbank.org/curated/en/133781571930814658/New-Approaches-to-the-Identification-of-Low-Frequency-Drivers-An-Application-to-Technology-Shocks)
 
 
-
 ## Technology shocks and employment:
 
-The  technology-employment trade-off: industry, automation, and income effects coming soon - [Preliminary Draft](https://drive.google.com/file/d/1uhX9i-k-kl5i5Ks6qlwvd_mBX1e0AP9P/view?usp=sharing)
+[The  technology-employment trade-off: industry, automation, and income effects](http://documents1.worldbank.org/curated/en/595681611845186942/pdf/The-Technology-Employment-Trade-Off-Automation-Industry-and-Income-Effects.pdf)
 
 ## Policy publications, working papers:
 
