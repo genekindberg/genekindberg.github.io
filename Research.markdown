@@ -10,8 +10,12 @@ permalink: /Research/
 ## Nowcasting:
 
 [Gauging the Globe: The Bank's Approach to Nowcasting World GDP](https://www.bankofengland.co.uk/quarterly-bulletin/2018/2018-q3/gauging-the-globe-the-banks-approach-to-nowcasting-world-gdp) with Andrej Sokol
-
+*
 ## Structural VARs:
+[Signing-out Confounding Shocks (Forthcoming *AEA Papers and Procedings*)](https://drive.google.com/file/d/1tr6w8iX7CrhQ7JYVAfMJVeLMOfML2FtH/view?usp=sharing) and [*online appendix*](https://drive.google.com/file/d/1oCCadlflh5AZqRw-XXS3uj65_yMs1Cb_/view?usp=sharing)
+
+[Technological and non-technological drivers of productivity dynamics in developed and emerging market economies (*Journal of Economic Dynamics and Control*)](https://www.sciencedirect.com/science/article/abs/pii/S0165188921001512)
+
 
 [The Identification of Dominant Macroeconomic Drivers: Coping with Confounding Shocks](https://drive.google.com/file/d/147ljqcEXiWmXXKU2lmYpM1jI6O94_AT4/view?usp=sharing) with Alistair Dieppe and Neville Francis
 	Previous: [New approaches to the identification of low frequency drivers: An application to technology shocks](http://documents.worldbank.org/curated/en/133781571930814658/New-Approaches-to-the-Identification-of-Low-Frequency-Drivers-An-Application-to-Technology-Shocks)
