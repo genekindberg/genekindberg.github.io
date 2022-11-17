@@ -12,7 +12,7 @@ permalink: /Research/
 [Gauging the Globe: The Bank's Approach to Nowcasting World GDP](https://www.bankofengland.co.uk/quarterly-bulletin/2018/2018-q3/gauging-the-globe-the-banks-approach-to-nowcasting-world-gdp) with Andrej Sokol
 
 ## Structural VARs:
-[Signing-out Confounding Shocks (*AEA Papers and Proceedings*)](https://www.aeaweb.org/articles?id=10.1257/pandp.20221046). [Early version](https://drive.google.com/file/d/1tr6w8iX7CrhQ7JYVAfMJVeLMOfML2FtH/view?usp=sharing) avaialale with [*online appendix*](https://drive.google.com/file/d/1oCCadlflh5AZqRw-XXS3uj65_yMs1Cb_/view?usp=sharing) with Neville Francis
+[Signing-out Confounding Shocks (*AEA Papers and Proceedings*)](https://www.aeaweb.org/articles?id=10.1257/pandp.20221046). [Early version](https://drive.google.com/file/d/1tr6w8iX7CrhQ7JYVAfMJVeLMOfML2FtH/view?usp=sharing) available with [*online appendix*](https://drive.google.com/file/d/1oCCadlflh5AZqRw-XXS3uj65_yMs1Cb_/view?usp=sharing) with Neville Francis
 
 [Technological and non-technological drivers of productivity dynamics in developed and emerging market economies (*Journal of Economic Dynamics and Control*)](https://www.sciencedirect.com/science/article/abs/pii/S0165188921001512) with Alistair Dieppe and Neville Francis
 
