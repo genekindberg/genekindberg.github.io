@@ -29,6 +29,7 @@ github_username:  genekindberg
 # Build settings
 remote_theme: hydecorp/hydejack@v9.0.5
 #theme: jekyll-theme-hydejack
+#theme: minima
 plugins:
   - jekyll-feed
   - jekyll-include-cache
