@@ -20,6 +20,9 @@ layout: base
 {% assign strings = site.data.strings %}
 
 <article class="page" role="article">
+  <head>
+    {% include analytics.html %}
+  </head>
   <header>
     <h1 class="page-title">{{ page.title | default:strings.home | default:"Home" }}</h1>
     {% include components/message.html text=page.description hide=page.hide_description %}
