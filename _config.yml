@@ -27,9 +27,9 @@ url: "https://genekindberg.github.io" # the base hostname & protocol for your si
 github_username:  genekindberg
 
 # Build settings
-remote_theme: hydecorp/hydejack@v9.0.5
+#remote_theme: hydecorp/hydejack@v9.0.5
 #theme: jekyll-theme-hydejack
-#theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
   - jekyll-include-cache
