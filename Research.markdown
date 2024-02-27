@@ -5,6 +5,9 @@ permalink: /Research/
 ---
 
 
+## Labor markets:
+
+[What Caused the Beveridge Curve to Shift Higher in the United States During the Pandemic?](https://www.imf.org/en/Publications/WP/Issues/2024/01/12/What-Caused-the-Beveridge-Curve-to-Shift-Higher-in-the-United-States-During-the-Pandemic-542870) with Michael Girard
 
 
 ## Nowcasting:
