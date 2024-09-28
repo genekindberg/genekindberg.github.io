@@ -4,6 +4,9 @@ title: Research
 permalink: /Research/
 ---
 
+## Fiscal and inflation:
+[Transfers, Excess Savings, and Large Fiscal Multipliers](https://www.imf.org/en/Publications/WP/Issues/2024/09/27/Transfers-Excess-Savings-and-Large-Fiscal-Multipliers-555575)
+
 
 ## Labor markets:
 
